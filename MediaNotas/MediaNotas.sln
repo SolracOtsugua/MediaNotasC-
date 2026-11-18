@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaNotas.App", "MediaNotas.App\MediaNotas.App.csproj", "{31F28A6C-2478-467A-A08C-7A84FD5E0AEB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaNotas.Tests", "MediaNotas.Tests\MediaNotas.Tests.csproj", "{EB4C9FF3-79D2-4240-B1CF-39766570D444}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,18 @@ Global
 		{31F28A6C-2478-467A-A08C-7A84FD5E0AEB}.Release|x64.Build.0 = Release|Any CPU
 		{31F28A6C-2478-467A-A08C-7A84FD5E0AEB}.Release|x86.ActiveCfg = Release|Any CPU
 		{31F28A6C-2478-467A-A08C-7A84FD5E0AEB}.Release|x86.Build.0 = Release|Any CPU
+		{EB4C9FF3-79D2-4240-B1CF-39766570D444}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB4C9FF3-79D2-4240-B1CF-39766570D444}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB4C9FF3-79D2-4240-B1CF-39766570D444}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{EB4C9FF3-79D2-4240-B1CF-39766570D444}.Debug|x64.Build.0 = Debug|Any CPU
+		{EB4C9FF3-79D2-4240-B1CF-39766570D444}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{EB4C9FF3-79D2-4240-B1CF-39766570D444}.Debug|x86.Build.0 = Debug|Any CPU
+		{EB4C9FF3-79D2-4240-B1CF-39766570D444}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB4C9FF3-79D2-4240-B1CF-39766570D444}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB4C9FF3-79D2-4240-B1CF-39766570D444}.Release|x64.ActiveCfg = Release|Any CPU
+		{EB4C9FF3-79D2-4240-B1CF-39766570D444}.Release|x64.Build.0 = Release|Any CPU
+		{EB4C9FF3-79D2-4240-B1CF-39766570D444}.Release|x86.ActiveCfg = Release|Any CPU
+		{EB4C9FF3-79D2-4240-B1CF-39766570D444}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
